@@ -22,8 +22,8 @@ to this section's matching END comment to see page-specific styles.
   --wrapper-height: 87vh;
   --image-max-width: 300px;
   --image-margin: 3rem;
-  --font-family: "HK Grotesk";
-  --font-family-header: "HK Grotesk";
+  --font-family: "Calibri";
+  --font-family-header: "Calibri";
 }
 
 /* Basic page style resets */
