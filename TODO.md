@@ -5,9 +5,7 @@ Your new site is all yours so it doesn't matter if you break it! Try editing the
 In `index.html`, add this code on the line after the comment with `ADD BUTTON HERE` in it (you can copy and paste the button element HTML):
 
 ```html
-<button>
-    Click me!
-</button>
+<button>Click me!</button>
 ```
 
 Look at the page to see the button. Click it!
